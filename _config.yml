@@ -1,4 +1,4 @@
-title: "Marcelo Borges"
+title: "Borges Cloud Digital Hub"
 description: "Data & AI | Databases | Go-to-Market Leader in LATAM"
 theme: minima
 
@@ -6,6 +6,7 @@ author: "Marcelo Borges"
 
 header_pages:
   - index.md
-  - about.md
   - projects.md
   - contact.md
+  - blog.md
+  - about.md

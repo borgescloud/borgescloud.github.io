@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-# 👋 Welcome to BorgesCloud
-
 **BorgesCloud** is a technology-focused LLC created to showcase my work, ideas, and projects.  
 It serves as the home for my personal site, technical experiments, public enterprise initiatives, and anything else connected to me, **Marcelo Borges**.
 
@@ -22,5 +20,5 @@ Whether you're here to explore my professional background, browse projects, or f
 
 ## 📬 Connect
 
-👉 **LinkedIn:** [linkedin.com/in/marcelomborges](https://www.linkedin.com/in/marcelomborges/)  
-👉 **Email:** marcelomborges@gmail.com
+**LinkedIn:** [linkedin.com/in/marcelomborges](https://www.linkedin.com/in/marcelomborges/)  
+**Email:** marcelomborges@gmail.com

@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# 👋 About Me
-
 I'm **Marcelo Borges**, a technology leader focused on **Data, AI, and modern cloud architectures** across Latin America. My passion is helping companies unlock the full potential of their data through real-world applications of:
 
 - Distributed cloud databases  
@@ -19,7 +17,7 @@ My work spans the entire lifecycle of enterprise adoption: evaluation, PoCs, mig
 
 ---
 
-## 🌍 My Focus
+## My Focus
 
 - **Modern Data Platforms**  
   Apache Cassandra, NoSQL, serverless databases, hybrid + multi-cloud patterns.
@@ -32,8 +30,8 @@ My work spans the entire lifecycle of enterprise adoption: evaluation, PoCs, mig
 
 ---
 
-## 📬 Connect
+## Connect
 
 The best way to reach me:
 
-👉 **[LinkedIn: linkedin.com/in/marcelomborges](https://www.linkedin.com/in/marcelomborges/)**
+**[LinkedIn: linkedin.com/in/marcelomborges](https://www.linkedin.com/in/marcelomborges/)**
