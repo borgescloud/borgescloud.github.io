@@ -1,30 +1,26 @@
 ---
 layout: page
-title: "Marcelo Borges"
+title: Home
 permalink: /
 ---
 
-# 👋 Hi, I’m Marcelo Borges
+# 👋 Welcome to BorgesCloud
 
-Data & AI go-to-market leader with deep experience in cloud databases, NoSQL, and generative AI across Latin America. I help organizations move from traditional architectures to modern, AI-ready data platforms and real-world use cases.
+**BorgesCloud** is a technology-focused LLC created to showcase my work, ideas, and projects.  
+It serves as the home for my personal site, technical experiments, public enterprise initiatives, and anything else connected to me, **Marcelo Borges**.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/marcelomborges/)
+My goal is to build a digital hub of useful insights — a place to share what I’ve learned about:
 
----
+- Modern data and AI technologies  
+- Independent, resilient living  
+- Healthy habits and sustainable productivity  
+- Navigating a fast-changing world with clarity and curiosity  
 
-## About
-
-I work at the intersection of:
-
-- Data platforms and distributed databases  
-- AI & GenAI (LLMs, vector search, agent frameworks)  
-- Sales, customer success, and go-to-market in LATAM  
-
-I enjoy translating complex technology into practical value and helping teams ship scalable, resilient, business-aligned solutions.
+Whether you're here to explore my professional background, browse projects, or follow new ideas, welcome — I’m glad you’re here.
 
 ---
 
-## Experience Snapshot
+## 📬 Connect
 
-- Leading Data & AI / database adoption across Latin America  
-- Helping customers migrate to modern NoSQL and hybrid architecture
+👉 **LinkedIn:** [linkedin.com/in/marcelomborges](https://www.linkedin.com/in/marcelomborges/)  
+👉 **Email:** marcelomborges@gmail.com

@@ -3,3 +3,9 @@ description: "Data & AI | Databases | Go-to-Market Leader in LATAM"
 theme: minima
 
 author: "Marcelo Borges"
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
