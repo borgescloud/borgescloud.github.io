@@ -3,7 +3,7 @@ layout: post
 title: "Duolingo 2025 Year in Review"
 date: 2025-12-03
 ---
-<img src="/2025-12-03-duolingo-2025-in-review-blog/cover.png" width="200">
+<img src="/assets/2025-12-03-duolingo-2025-in-review-blog/cover.png" width="200">
 
 There is no excuses to learn a new language today. The amount of resources, applications available to us is just mind bogling. All you need is some desire and dedication. In this blog I'll share some of the things I'm doing.
 
